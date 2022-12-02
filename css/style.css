@@ -7,6 +7,10 @@
 .container{
     width: 1000px;
     margin: 3rem auto;
+    padding: 20px;
+}
+li{
+    color: red;
 }
 .list{
     padding: 0px;
